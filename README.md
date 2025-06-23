@@ -1,6 +1,6 @@
-# Clerk Webhook Cloudflare Worker
+![clerk-webhook-cloudflare-worker](./clerk-webhook-cloudflare-worker.jpg)
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yourusername/clerk-webhook-cloudflare-worker)
+# Clerk Webhook Cloudflare Worker
 
 A production-ready Cloudflare Worker implementation for handling Clerk webhooks with secure signature verification. This serverless solution allows you to react to Clerk events like user creation, authentication, and other user lifecycle events in a scalable, cost-effective way.
 
@@ -25,6 +25,8 @@ A production-ready Cloudflare Worker implementation for handling Clerk webhooks 
 ### 1. Deploy with One Click
 
 Click the "Deploy to Cloudflare" button above to instantly deploy this webhook handler to your Cloudflare account.
+
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yourusername/clerk-webhook-cloudflare-worker)
 
 ### 2. Manual Deployment
 
