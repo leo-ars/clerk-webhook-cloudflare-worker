@@ -1,8 +1,8 @@
-![clerk-webhook-cloudflare-worker](./clerk-webhook-cloudflare-worker.jpg)
-
 # Clerk Webhook Cloudflare Worker
 
 A production-ready Cloudflare Worker implementation for handling Clerk webhooks with secure signature verification. This serverless solution allows you to react to Clerk events like user creation, authentication, and other user lifecycle events in a scalable, cost-effective way.
+
+![clerk-webhook-cloudflare-worker](./clerk-webhook-cloudflare-worker.jpg)
 
 ## 🚀 Features
 
