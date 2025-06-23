@@ -26,13 +26,13 @@ A production-ready Cloudflare Worker implementation for handling Clerk webhooks 
 
 Click the "Deploy to Cloudflare" button above to instantly deploy this webhook handler to your Cloudflare account.
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yourusername/clerk-webhook-cloudflare-worker)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/leo-ars/clerk-webhook-cloudflare-worker)
 
 ### 2. Manual Deployment
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/clerk-webhook-cloudflare-worker.git
+git clone https://github.com/leo-ars/clerk-webhook-cloudflare-worker.git
 cd clerk-webhook-cloudflare-worker
 
 # Install dependencies
