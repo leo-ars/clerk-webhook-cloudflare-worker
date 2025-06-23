@@ -190,12 +190,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🆘 Support
 
 - **Documentation**: [Cloudflare Workers Docs](https://developers.cloudflare.com/workers/)
-- **Clerk Documentation**: [Clerk Webhooks](https://clerk.com/docs/webhooks)
+- **Clerk Documentation**: [Clerk Webhooks](https://clerk.com/docs/webhooks/overview)
 - **Issues**: [GitHub Issues](https://github.com/yourusername/clerk-webhook-cloudflare-worker/issues)
 
 ## 🔗 Related Resources
 
-- [Clerk Webhook Events](https://clerk.com/docs/webhooks/events)
+- [Clerk Webhook Events](https://clerk.com/docs/webhooks/overview)
 - [Cloudflare Workers Documentation](https://developers.cloudflare.com/workers/)
 - [Hono Framework](https://hono.dev/) - The web framework used in this project
 
